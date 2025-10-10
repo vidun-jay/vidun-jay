@@ -1,7 +1,7 @@
 # Hi there 👋🏽
 My name is Vidun Jayakody, nice to meet you!
 
-- Currently working as **Site Reliability Engineer** for [Cisco XDR](https://www.cisco.com/site/us/en/products/security/xdr/index.html)
+- Currently working as **Site Reliability Engineer** for <a href="https://www.cisco.com/site/us/en/products/security/xdr/index.html" target="_blank" rel="noopener noreferrer">Cisco XDR</a>
 - 👨🏽‍💻 I ship infra as code, watch graphs, fix what hurts, and automate safe releases
 - ☁️ Compulsive yapper about cybersecurity, cloud, DevOps (etc.)
 - 📫 Always looking to expand my network, connect with me on <a href="http://linkedin.com/in/vidun-jayakody-5860471b7/" target="_blank">LinkedIn</a>!
